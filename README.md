@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://www.canva.com/design/DAGrVQrlBi0/sYU9-mweGA5oFpSOGdgf3w/view?utm_content=DAGrVQrlBi0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e0cb461c3" alt="banner" style="width:100%; border-radius: 12px;" />
+<img src="Greener-Cup-2-e1647443545708.jpg" alt="banner" style="width:100%; border-radius: 12px;" />
 
 # 💫 About Me:
 
