@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Greener-Cup-2-e1647443545708.jpg" alt="banner" style="width:100%; border-radius: 12px;" />
+<img src="" alt="banner" style="width:100%; border-radius: 12px;" />
 
 # 💫 About Me:
 
