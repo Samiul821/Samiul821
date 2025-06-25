@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/YourBannerImageLinkHere.jpg" alt="banner" style="width:100%; border-radius: 12px;" />
+<img src="my-banner-img.png" alt="banner" style="width:100%; border-radius: 12px;" />
 
 # 💫 About Me:
 
