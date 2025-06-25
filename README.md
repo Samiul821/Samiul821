@@ -87,8 +87,12 @@
 
 ---
 
+## 👥 Visitor Count
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Samiul821&icon=0&color=0" alt="Visitor Count" />
+  <!-- Visitor Badge by laobi.icu -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samiul821.Samiul821" alt="visitor badge" />
 </p>
+
 
 <!-- Proudly crafted by Samiul821 💻 -->
