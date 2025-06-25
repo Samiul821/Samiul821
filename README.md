@@ -5,13 +5,13 @@
 
 ### 👋 Hi there, I'm **Md Samiul Islam** (`Samiul821`)
 
-🚀 I'm a self-motivated Full-Stack Web Developer from **Bogura, Bangladesh**, focused on building performant, user-centric web apps with modern technologies like React, Node.js, and Firebase.
+🚀 I'm a self-motivated **MERN Stack Web Developer** from **Bogura, Bangladesh**, passionate about building fast, scalable, and user-centric web apps using technologies like **MongoDB, Express.js, React, and Node.js**.
 
 ### 🔭 Current Activities:
 - 🚧 Building a **Product Recommendation System** and a **Social Q&A Platform**
 - 🔍 Exploring **Next.js** and **JWT Authentication**
 - 🌐 Learning to implement **Responsive UI with Tailwind CSS & Framer Motion**
-- 🛠️ Improving Backend skills using **Express.js & MongoDB**
+- 🛠️ Improving backend skills using **Express.js & MongoDB**
 
 ---
 
