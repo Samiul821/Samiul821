@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="[https://i.imgur.com/YOUR_BANNER_IMAGE_LINK_HERE.jpg](https://www.canva.com/design/DAGrVQrlBi0/m5_RAtg0kErFb7P0wYhGew/edit?utm_content=DAGrVQrlBi0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="banner" style="width:100%; border-radius: 12px;" />
+<img src="https://www.canva.com/design/DAGrVQrlBi0/sYU9-mweGA5oFpSOGdgf3w/view?utm_content=DAGrVQrlBi0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e0cb461c3" alt="banner" style="width:100%; border-radius: 12px;" />
 
 # 💫 About Me:
 
