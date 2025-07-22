@@ -12,6 +12,8 @@
 
 🚀 A passionate and self-driven **MERN Stack Web Developer** from **Bogura, Bangladesh**, specializing in building **responsive**, **performant**, and **scalable** web applications.
 
+<p align="center"> <a href="https://samiul821.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Samiul's Portfolio" /> </a> </p>
+
 ---
 
 ### 🔭 What I'm Working On
