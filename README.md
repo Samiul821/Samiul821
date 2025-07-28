@@ -12,7 +12,7 @@
 
 🚀 A passionate and self-driven **MERN Stack Web Developer** from **Bogura, Bangladesh**, specializing in building **responsive**, **performant**, and **scalable** web applications.
 
-<p align="left"> <a href="https://samiul-portfolio-599b19.netlify.app/" target="_blank" rel="noopener noreferrer"> </a> <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Samiul's Portfolio" />  </p>
+<p align="left"> <a href="https://samiul-portfolio-599b19.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Samiul's Portfolio" /></a>  </p>
 
 ---
 
